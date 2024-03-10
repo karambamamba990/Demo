@@ -1,6 +1,6 @@
 
 def formatter():
-    print("############################################")
+    print("#"*44)
 
 class Employee_details:
     def __init__(self):
